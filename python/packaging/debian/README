@@ -1,8 +1,0 @@
-README
-
-Mote consists of a USB controller, with four channels, that connects via a USB A to micro B cable to your computer, and up to four APA102 RGB LED strips with 16 pixels on each, for a total of 64 pixels per USB controller, although the firmware can theoretically handle 128 pixels per channel.
-
-Learn more: https://shop.pimoroni.com/products/mote
-For examples run: `curl -sS get.pimoroni.com/mote | bash`
-
-Mote consists of a USB controller and up to four APA102 RGB LED strips with 16 pixels on each, for a total of 64 pixels per USB controller.
