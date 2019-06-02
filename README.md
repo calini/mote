@@ -22,4 +22,4 @@ $ go get -u go.ilie.io/mote
 
 * The original Python implementation by Pimoroni - https://github.com/pimoroni/mote
 * Another Go implementation by John McCabe - https://github.com/johnmccabe/mote
-* Rust library by Tiziano Santoro - https://github.com/tiziano88/mote-rs
+* Rust implementation by Tiziano Santoro - https://github.com/tiziano88/mote-rs
